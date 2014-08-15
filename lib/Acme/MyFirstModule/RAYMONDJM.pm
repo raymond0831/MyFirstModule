@@ -21,7 +21,7 @@ our %EXPORT_TAGS = ( 'all' => [ qw(
 
 our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 
-our @EXPORT; = qw(
+our @EXPORT = qw(
 	
 );
 

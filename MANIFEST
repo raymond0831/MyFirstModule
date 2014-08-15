@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Acme-MyFirstModule-RAYMONDJM.t
+lib/Acme/MyFirstModule/RAYMONDJM.pm
